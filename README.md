@@ -7,12 +7,7 @@
 
 <h4 align="center"\>This repository is a study repository to implement the LCD 16x2 in my project below.</p>
 
-<a href="https://github.com/r1ddax/punch_the_clock" target="_blank"><img src="https://img.shields.io/badge/-Punch_The_Clock-blue" width="140" height="35"/></a>
 </br>
-<a href="https://github.com/r1ddax/punch_the_clock" target="_blank"><img src="https://img.shields.io/github/issues/r1ddax/punch_the_clock"/></a>
-
-</br>
-
 
 ## Index
 <p align="center">
