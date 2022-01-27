@@ -40,7 +40,7 @@ Just clone this repository, change the lcd pin to your settings and compile.
 
 Clone this repository
 ```
-git clone https://github.com/RickelmeDias/LDC-16x2.git
+git clone https://github.com/RickelmeDias/LCD-16x2.git
 ```
 
 ## Pinout
